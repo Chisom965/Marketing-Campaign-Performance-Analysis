@@ -67,6 +67,18 @@ Data was ingested using power BI Excel connector.
 
 •	Double Check ROI=  DIVIDE(SUM('PBI_Marketing_Data xlsx - marketing'[Revenue (INR)]) - SUM('PBI_Marketing_Data xlsx - marketing'[Ad Spend (INR)]), SUM('PBI_Marketing_Data xlsx - marketing'[Ad Spend (INR)]), 0) * 100
 
- ![image alt](
+ ![image alt](https://github.com/Chisom965/Marketing-Campaign-Performance-Analysis/blob/632ded7b8fe4449a87aa874edf46d447260272a7/Calculated%20Field%201.png)
+
+ # Key Insights and Recommendations
+ 1.Google Ads has the highest profitable channel, more money should be spent on the advert channel.
+ 
+ 2.Household items dominates the conversion by category therefore being the highest, I recommend the advert budget should be consistent.
+ 
+ 3.Some channels have high impression but low clicks, creative/targeting needs to be improved.
+ 
+ 4.In Revenue by product, cold drinks, biscuits, and dishwasher lead the revenue, the top products should be promoted with the weak ones.
+ 
+ 5.Campaigns should be aligned with seasonal peak.
+
 
   

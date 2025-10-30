@@ -8,10 +8,9 @@
 
 ## Objective
    The primary goal of this analysis is to generate actionable insights in to the marketing campaign performance by Evaluating:
-   
-  1.Campaign performance across channels.  
-  2.Track key marketing metrics.
-  3.Optimizie decision making through data insights.
+    1.Campaign performance across channels.  
+    2.Track key marketing metrics.
+    3.Optimizie decision making through data insights.
   
   
 ## Key Performance questions

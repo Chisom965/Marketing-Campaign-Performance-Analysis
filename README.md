@@ -36,3 +36,28 @@
 ## Tools and methodologies
   "Tools used" Microsoft Power BIhttps:(//www.microsoft.com/en-us/power-platform/products/power-bi)
   
+## Techniques
+1.Data Cleaning and Transforming using Power Query.
+
+2.Data KPI Creation.
+
+3.Data Visualization for interactive and insightful dashboard.
+
+4.Project Documentation for clear reporting of insights.
+
+# Data Processing
+
+## Data Importation and cleaning
+
+Data was ingested using power BI Excel connector.
+
+## Cleaning Steps
+•	Previewed the Dataset in Excel Workbook.
+
+•	Imported Dataset from Excel into Power Query Editor.
+
+•	Checked for inconsistencies, errors, and duplicates.
+
+•	Applied transformations and loaded clean data for visualization.
+
+  

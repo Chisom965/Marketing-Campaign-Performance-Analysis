@@ -32,4 +32,7 @@
 7.What is the click-through rate (CTR) trend across platforms?
 
 8.Which marketing strategy yields the best cost-efficiency (lowest cost per conversion)?
+
+## Tools and methodologies
+  "Tools used" Microsoft power BI
   

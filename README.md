@@ -60,4 +60,13 @@ Data was ingested using power BI Excel connector.
 
 •	Applied transformations and loaded clean data for visualization.
 
+## Calculated Fields(DAX):
+•	CTR= DIVIDE (SUM('PBI_Marketing_Data xlsx - marketing'[Clicks]), SUM('PBI_Marketing_Data xlsx - marketing'[Impressions]), 0) * 100
+
+•	Conversion Rate=  DIVIDE(SUM('PBI_Marketing_Data xlsx - marketing'[Conversions]), SUM('PBI_Marketing_Data xlsx - marketing'[Clicks]), 0) * 100
+
+•	Double Check ROI=  DIVIDE(SUM('PBI_Marketing_Data xlsx - marketing'[Revenue (INR)]) - SUM('PBI_Marketing_Data xlsx - marketing'[Ad Spend (INR)]), SUM('PBI_Marketing_Data xlsx - marketing'[Ad Spend (INR)]), 0) * 100
+
+ ![image alt](
+
   
